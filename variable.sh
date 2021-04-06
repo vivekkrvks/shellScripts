@@ -13,6 +13,6 @@ echo $PWD # to see present working directory
 
 # number infront of varible is not allowed like you can't consider 10val as variable
 
-name = Vivek
+name=Vivek
 
 echo My name is $name
